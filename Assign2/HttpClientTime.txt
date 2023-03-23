@@ -1,0 +1,11 @@
+5MB time delay
+final time - start time = turn around time
+7.689s - 3.147s = 4.542s
+
+10MB time delay
+final time - start time = turn around time
+18.857s - 12.476s = 6.381s
+
+20MB time delay
+final time - start time = turn around time
+32.941s - 22.509s = 10.432s
